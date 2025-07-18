@@ -36,5 +36,5 @@
 </h1>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myzgar&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mermireal&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" height="150px" />
 </p>
